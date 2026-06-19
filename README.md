@@ -4,3 +4,7 @@ Linuxの授業で作成した自作コマンド集です。
 
 ## showpath
 PATHの中身を1行ずつ表示します。
+
+## originalalias
+ailas lpw="ls -l;pwd;whoami"
+
