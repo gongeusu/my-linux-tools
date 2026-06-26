@@ -16,3 +16,6 @@ ailas lpw="ls -l;pwd;whoami"
 find . -type d -name ".git"
 
 便利そう
+
+ファイアウォールを止める
+sudo systemcti stop firewalld
