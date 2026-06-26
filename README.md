@@ -9,3 +9,8 @@ PATHの中身を1行ずつ表示します。
 ailas lpw="ls -l;pwd;whoami"
 
 実はここで編集ができます
+
+今日も今日とてLinux
+
+検索するコマンド
+find . -type d -name ".git"
